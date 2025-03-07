@@ -5,11 +5,14 @@ I needed a logo for C* Music Player ([cmus](https://github.com/cmus/)) and since
 Cheers, [J15k](https://www.j15k.com/ "Jonas Jared Jacek").
 
 
-## cmus Vector Logos
+## cmus Vector Logo
 
 The SVG (Scalable Vector Graphics) logo uses a transparent background.
 
 ![cmus Logo](./cmus-logo.svg)
+
+
+---
 
 
 ## cmus ASCII Logos
