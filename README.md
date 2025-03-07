@@ -9,7 +9,7 @@ Cheers, [J15k](https://www.j15k.com/ "Jonas Jared Jacek").
 
 The SVG (Scalable Vector Graphics) logo uses a transparent background.
 
-* ![cmus Logo](./cmus-logo.svg)
+![cmus Logo](./cmus-logo.svg)
 
 
 ## cmus ASCII Logos
@@ -28,7 +28,7 @@ The SVG (Scalable Vector Graphics) logo uses a transparent background.
 @@@@@@    @@@@@   @@@@@@   @@@@@@   @@@@@@   @@@@@@   @@@@@@    @@@@@    @@@@@
 @@@@@@@@@@@@@@@   @@@@@@   @@@@@@   @@@@@@   @@@@@@@@@@@@@@@    @@@@@@@@@@@@@@
  @@@@@@@@@@@@@    @@@@@@   @@@@@@   @@@@@@    @@@@@@@@@@@@@      @@@@@@@@@@@@ 
-  ```
+```
 
 ```txt
  %%%%%%%%%%%%%     %%%%%%%%%% %%%%%%%%%%%    %%%%%%   %%%%%%     %%%%%%%%%%%% 
